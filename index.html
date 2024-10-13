@@ -4,32 +4,70 @@
   <meta charset="utf-8" />
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-  <title>Madacol's website.</title>
+  <title>Marco D'Agostini</title>
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
   </style>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-<h1 id="madacols-website.">Madacol’s website.</h1>
+<h1 id="marco-dagostini">Marco D’Agostini</h1>
+<h2 id="social">Social</h2>
 <ul>
 <li><a href="/blog">Blog</a></li>
+<li><a href="https://x.com/madacol">Twitter</a></li>
+<li><a href="https://github.com/madacol">GitHub</a></li>
 </ul>
 <h2 id="projects">Projects</h2>
 <ul>
-<li><a href="https://getbookmarklets.com">Get Bookmarklets</a> - A place to share <a href="https://en.wikipedia.org/wiki/Bookmarklet">bookmarklets</a>.</li>
-<li><a href="/ozempic-dicom-viewer">MRI/CT scan viewer</a> - A simple viewer for MRI and CT scans.</li>
-<li><a href="/weighted_shuffle">Music player with weighted shuffle</a> - A music player for local files with a weighted shuffle algorithm.</li>
+<li><a href="https://getbookmarklets.com">Get Bookmarklets</a> - A place
+to share <a
+href="https://en.wikipedia.org/wiki/Bookmarklet">bookmarklets</a>.</li>
+<li><a href="/weighted_shuffle">Music player</a> - A web music player
+for local files with a weighted shuffle algorithm.</li>
+<li><a href="/ozempic-dicom-viewer">MRI/CT scan viewer</a> - A simple
+viewer for MRI and CT scans.</li>
+<li><a
+href="https://www.youtube.com/watch?v=i8vP2M1B5UY&amp;list=PLNb0YnM0RyKikrldCJ3hfWYxspbccqudE&amp;index=1">Webpipe</a>
+- A web extension that forwards the outputs of a webpage into inputs on
+another webpage. It’s like a real-time copy-paster, but it gets powerful
+when <a
+href="https://www.youtube.com/watch?v=doJV2TPVyxI&amp;list=PLNb0YnM0RyKikrldCJ3hfWYxspbccqudE&amp;index=4&amp;t=62">combined
+with a programmable webpage</a> — <a
+href="https://github.com/madacol/webpipe">Source</a></li>
 </ul>
-<h2 id="social">Social</h2>
+<h3 id="old-projects">Old projects</h3>
 <ul>
-<li><a href="https://x.com/madacol">Twitter</a></li>
-<li><a href="https://github.com/madacol">GitHub</a></li>
+<li><a href="https://github.com/madacol/bolivarparalelo">Bolivar
+Paralelo</a> - A webpage that analyzed <a
+href="https://www.localbitcoins.com"
+class="uri">https://www.localbitcoins.com</a> offers to get currencies’
+rates, calculate cross rates and show history graphs.</li>
+<li><a
+href="https://www.youtube.com/watch?v=MHU5xQRTyus">Arduino-controlled
+conveyor oven</a> - A conveyor pizza oven automated using an arduino,
+with PID controlled temperature — <a
+href="https://github.com/madacol/ArduinoOven">Source</a></li>
+<li><a href="https://www.youtube.com/watch?v=aiiE8h8b_Uk">CNC router</a>
+- to cut metal sheets up to 3 inches thick as drawn in a CAD file.</li>
+<li><a href="https://www.youtube.com/watch?v=wu8dKf8xgoI">Helical
+Milling</a> - A system to allow a conventional horizontal milling
+machine to produce helical gears by rotating the chuck as the X axis
+advances — <a
+href="https://github.com/madacol/helical-milling">Source</a></li>
 </ul>
 </body>
 </html>
