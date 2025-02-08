@@ -3,8 +3,9 @@
 ## Social
 
 - [Blog](/blog)
-- [Twitter](https://x.com/madacol)
+- [Bluesky](https://bsky.app/profile/madacol.com)
 - [GitHub](https://github.com/madacol)
+- [Twitter](https://twitter.com/madacol)
 
 ## Projects
 
