@@ -6,4 +6,4 @@ set -e
 
 echo "Deploying..."
 touch package.json # Stupid gh-pages fails if there's no package.json ¬¬
-npx gh-pages -d './content'
+npx gh-pages -d './content' --nojekyll
