@@ -9,7 +9,7 @@
 
 ## Projects
 
-- [Baby Jarvis](https://github.com/madacol/baby-jarvis) - An AI assistant that can run JavaScript code, query a DB and use/create/edit tools on the fly.
+- [Baby Jarvis](https://madacol.com/baby-jarvis/) - An AI assistant that can run JavaScript code, query a DB and use/create/edit tools on the fly.
 - [Get Bookmarklets](https://getbookmarklets.com) - A place to share [bookmarklets](https://en.wikipedia.org/wiki/Bookmarklet).
 - [Web Automation](https://github.com/madacol/web-automation/) - A collection of bookmarklets and userscripts I've done or modified.
 - [Music player](/weighted_shuffle) - A web music player for local files with a weighted shuffle algorithm.
