@@ -14,7 +14,7 @@
 - [Web Automation](https://github.com/madacol/web-automation/) - A collection of bookmarklets and userscripts I've done or modified.
 - [Music player](https://madacol.com/weighted_shuffle) - A web music player for local files with a weighted shuffle algorithm.
 
-### Inactive / Abandoned
+### Inactive
 
 - [MRI/CT scan viewer](https://madacol.com/ozempic-dicom-viewer/) - A simple viewer for MRI and CT scans.
 - [Friendpals](https://www.friendpals.ca) - A website for finding friends in Windsor, Canada, with identity verification and a pay-per-meet system — [Source](https://github.com/madacol/faas)
