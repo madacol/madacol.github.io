@@ -10,7 +10,7 @@
 ## Projects
 
 - [Get Bookmarklets](https://getbookmarklets.com) - A place to share [bookmarklets](https://en.wikipedia.org/wiki/Bookmarklet).
-- [Web Automation](https://github.com/madacol/web-automation/) - A collection of bookmarklets and userScripts I've done or modified.
+- [Web Automation](https://github.com/madacol/web-automation/) - A collection of bookmarklets and userscripts I've done or modified.
 - [Music player](/weighted_shuffle) - A web music player for local files with a weighted shuffle algorithm.
 
 ### Inactive / Abandoned
