@@ -10,11 +10,12 @@
 ## Projects
 
 - [Get Bookmarklets](https://getbookmarklets.com) - A place to share [bookmarklets](https://en.wikipedia.org/wiki/Bookmarklet).
-- [Web Automation](https://github.com/madacol/web-automation/) - A collection of bookmarklets and userScripts I've done or modified.
+- [Web Automation](https://github.com/madacol/web-automation/) - A collection of bookmarklets and userscripts I've done or modified.
 - [Music player](/weighted_shuffle) - A web music player for local files with a weighted shuffle algorithm.
 
 ### Inactive / Abandoned
 
+- [Baby Jarvis](https://github.com/madacol/baby-jarvis) - An AI assistant that can run JavaScript code, query a DB and use/create/edit tools on the fly.
 - [MRI/CT scan viewer](/ozempic-dicom-viewer) - A simple viewer for MRI and CT scans.
 - [Friendpals](https://www.friendpals.ca) - A website for finding friends in Windsor, Canada, with identity verification and a pay-per-meet system — [Source](https://github.com/madacol/faas)
 - [Webpipe](https://www.youtube.com/watch?v=i8vP2M1B5UY&list=PLNb0YnM0RyKikrldCJ3hfWYxspbccqudE&index=1) - A web extension that forwards the outputs of a webpage into inputs on another webpage. It's like a real-time copy-paster, but it gets powerful when [combined with a programmable webpage](https://www.youtube.com/watch?v=doJV2TPVyxI&list=PLNb0YnM0RyKikrldCJ3hfWYxspbccqudE&index=4&t=62) — [Source](https://github.com/madacol/webpipe)
